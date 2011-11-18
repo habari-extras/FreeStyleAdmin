@@ -1,11 +1,9 @@
-<plugin>
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
 	<url>http://iamgraham.net/plugins</url>
 	<name>FreeStyleAdmin</name>
 	<description>Allows you to load arbitrary CSS files into the admin pages.</description>
-	<license>Apache License 2.0</license>
-	<author>Graham Christensen</author>
-	<authorurl>http://iamgraham.net/</authorurl>
-	<version>0.1</version>
-</plugin>
-
- 
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://iamgraham.net/">Graham Christensen</author>
+	<version>0.2</version>
+</pluggable>
